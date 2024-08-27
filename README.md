@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=%20Hello%20%20&fontSize=50)
 # I'm E-Nae Cheong 
 
-I'm Ph.D candidate in the Department of Medical Science and Asan Medical Institute of Convergence Science and Technology at the University of Ulsan College of Medicine.
+I'm Ph.D in the Department of Medical Science and Asan Medical Institute of Convergence Science and Technology at the University of Ulsan College of Medicine.
 
 I work as a researcher in the department of
 ![spm](https://img.shields.io/badge/Radiology-pink) ![spm](https://img.shields.io/badge/neurology-gold) ![spm](https://img.shields.io/badge/psychiatry-skyblue).
