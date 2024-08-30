@@ -5,12 +5,13 @@ I'm Ph.D in the Department of Medical Science and Asan Medical Institute of Conv
 
 I work as a researcher in the department of
 ![spm](https://img.shields.io/badge/Radiology-pink) ![spm](https://img.shields.io/badge/neurology-gold) ![spm](https://img.shields.io/badge/psychiatry-skyblue).
+
 Recent concerns include patient with 
 ![spm](https://img.shields.io/badge/BrainTumor-pink)  ![spm](https://img.shields.io/badge/NeurodegenerativeDisease-gold) ![spm](https://img.shields.io/badge/Insomnia-skyblue)
 
 Since 2014 I've been analyzing MRI data in the human brain 🧠
 
-The main analysis is task-based fMRI, rs-fMRI, structural MRI (VBM,cortical thickness, DTI), and radiomics.
+The main analysis is task-based fMRI, resting state fMRI, structural MRI (VBM,cortical thickness, DTI), and **radiomics**.
 
 Recently, I have been interested in diagnosing and classifying brain lesions using machine learning techniques such as autoencoder.
 
